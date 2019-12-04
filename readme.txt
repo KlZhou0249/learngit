@@ -6,4 +6,4 @@ Now it's pushed on the gitHub!
 
 Creating a new branch is quick and simple.
 git merge --no-ff
-git is free software
+git is a free software
